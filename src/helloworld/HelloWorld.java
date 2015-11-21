@@ -8,6 +8,7 @@ public class HelloWorld {
         System.out.print("nimabi");
         
         System.out.print("nimabi");
+        System.out.print("nimabi");
 	}
 
 }
